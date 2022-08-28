@@ -1,0 +1,123 @@
+* {
+  margin:0;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5rem;
+  margin-top: 50px;
+  line-height: 2;
+}
+.top-container h2{
+  font-weight: normal;
+  text-decoration: underline;
+}
+body{
+  line-height: 2;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+.top-container{
+  position: relative;
+  padding-top:100px;
+  background-color: #EAF6F6;
+}
+.middle-container{
+}
+.bottom-container{
+}
+.bottom-cloud{
+  position:absolute;
+}
+.skils{
+}
+.top-cloud{
+  position:absolute;
+  right:450px;
+  top:50px;
+}
+.mountain{
+  margin-top: 85px;
+}
+h1, h2{
+  color:#66BFBF;
+}
+h3, a{
+  color:#11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.skill-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-image2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile p{
+  color:#40514E;
+  font-weight: bold;
+}
+.parrafo-desc{
+  width: 75%;
+  margin:auto;
+}
+.profile-margin{
+  margin: 25px auto;
+}
+hr{
+  color: #EAF6F6;
+  border-style: dotted;
+  border-width: thick;
+  border-style: dotted none none none;
+  width: 25%;
+  margin: 80px auto;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom-container{
+  height:20vh;
+  background-color: #66BFBF;
+}
+a{
+  margin: 0 25px;
+  line-height: 2;
+  color:#11999E;
+  text-decoration: none;
+}
+.parrafooter{
+  margin:25px;
+  color: #EAF6F6;
+}
+.contact-me{
+  margin-bottom: 25px;
+}
